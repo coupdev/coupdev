@@ -1,69 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>coupdev</title>
-    <link href='https://fonts.googleapis.com/css?family=Fira+Code' rel='stylesheet'>
+    <title>Portfolio</title>
     <style>
         body {
-            font-family: 'Fira Code', monospace;
-            font-size: 14px;
-            max-width: 800px;
-            margin: auto;
             background-color: black;
             color: white;
-            padding: 20px;
-            white-space: pre;
+            font-family: monospace;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
         }
         a {
-            color: lime;
+            color: #00ff00;
+            text-decoration: none;
         }
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+        .container {
+            width: 90%;
+            max-width: 600px;
         }
-        .separator {
+        hr {
             width: 100%;
-            border-top: 1px solid white;
-            margin: 10px 0;
+            border-color: gray;
         }
         pre {
+            text-align: center;
             font-size: 12px;
-            line-height: 1.2;
             overflow-x: auto;
+            white-space: pre-wrap;
         }
     </style>
 </head>
-
 <body>
-    <div class="header">
-        <span>coup</span>
-        <span><a href="https://github.com/coupdev" target="_blank">github.com/coupdev</a></span>
-        <span><a href="https://t.me/coupceo" target="_blank">Telegram</a></span>
-    </div>
-    <div class="separator"></div>
-    <strong>
-        <p>PROFESSIONAL EXPERIENCE</p>
-    </strong>
-    <p>None</p>
-    <strong>
-        <p>PROGRAMMING LANGUAGES</p>
-    </strong>
-    <p>● Python</p>
-    <strong>
-        <p>LANGUAGES</p>
-    </strong>
-    <p>● English ● Russian</p>
-    <strong>
-        <p>HOBBIES</p>
-    </strong>
-    <p>● Spending money ● Receiving money</p>
-    <div class="separator"></div>
-    
-    <pre>
+    <div class="container">
+        <p>coup <a href="https://github.com/coupdev">github.com/coupdev</a> <a href="https://t.me/coupdev">Telegram</a></p>
+        <hr>
+        <h3>PROFESSIONAL EXPERIENCE</h3>
+        <p>None</p>
+        <h3>PROGRAMMING LANGUAGES</h3>
+        <p>&#8226; Python</p>
+        <h3>LANGUAGES</h3>
+        <p>&#8226; English &#8226; Russian</p>
+        <h3>HOBBIES</h3>
+        <p>&#8226; Spending money &#8226; Receiving money</p>
+        <hr>
+        <pre>
            __.
         .-".'                      .--.            _..._
       .' .'                     .'    \       .-""  __ ""-.
@@ -98,7 +85,7 @@
                       ;     , `.
                       :   \  ; :
                       '..__L.:-'
-    </pre>
+        </pre>
+    </div>
 </body>
-
 </html>
