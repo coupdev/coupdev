@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,63 +9,37 @@
             background-color: black;
             color: white;
             font-family: monospace;
-            text-align: center;
             display: flex;
-            flex-direction: column;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
             margin: 0;
+            text-align: center;
         }
-
-        a {
-            color: #00ff00;
-            text-decoration: none;
-        }
-
         .container {
             width: 90%;
-            max-width: 600px;
+            max-width: 800px;
         }
-
-        hr {
-            width: 100%;
-            border-color: gray;
-        }
-
-        pre {
-            font-size: 12px;
-            line-height: 1.2;
-            white-space: pre;
-            overflow-x: auto;
-            text-align: left;
-            width: 100%;
-            margin: 0 auto;
-        }
-
-        /* Медиа-запрос для экранов больше 768px (ПК) */
-        @media (min-width: 768px) {
+        @media (min-width: 1024px) {
             .container {
-                width: 70%;
+                max-width: 1000px;
             }
         }
     </style>
 </head>
-
 <body>
     <div class="container">
-        <p>coup <a href="https://github.com/coupdev">github.com/coupdev</a> <a href="https://t.me/coupdev">Telegram</a></p>
+        <h1>coup <a href="https://github.com/coupdev" style="color: green;">github.com/coupdev</a> <a href="https://t.me/coupdev" style="color: green;">Telegram</a></h1>
         <hr>
-        <h3>PROFESSIONAL EXPERIENCE</h3>
+        <h2>PROFESSIONAL EXPERIENCE</h2>
         <p>None</p>
-        <h3>PROGRAMMING LANGUAGES</h3>
+        <h2>PROGRAMMING LANGUAGES</h2>
         <p>&#8226; Python</p>
-        <h3>LANGUAGES</h3>
+        <h2>LANGUAGES</h2>
         <p>&#8226; English &#8226; Russian</p>
-        <h3>HOBBIES</h3>
+        <h2>HOBBIES</h2>
         <p>&#8226; Spending money &#8226; Receiving money</p>
         <hr>
     </div>
 </body>
-
 </html>
