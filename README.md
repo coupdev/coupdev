@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm coup </h1>
+<h1 align="center">Hi, I'm coup 👋</h1>
 <p align="center">🚀 begginer backend developer & part-time frontend minimalist</p>
 
 ---
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=coup&theme=dracula" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=coup&theme=tokyonight" alt="WakaTime Stats" />
 </p>
 
 ---
