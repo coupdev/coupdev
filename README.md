@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=coup&theme=radical" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=coup&theme=github_dark" alt="WakaTime Stats" />
 </p>
 
 ---
