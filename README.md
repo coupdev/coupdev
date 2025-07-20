@@ -21,8 +21,6 @@
 ### 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coupdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coupdev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
