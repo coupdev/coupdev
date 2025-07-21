@@ -7,7 +7,6 @@
 
 - Backend & Telegram bots in **Python**
 - Simple static websites in **HTML / CSS / Tailwind**
-- Currently working on [@MashinkaPeskaraBot](https://t.me/MashinkaPeskaraBot)
 
 ---
 
