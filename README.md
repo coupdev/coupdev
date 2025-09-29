@@ -10,12 +10,12 @@
 - Ai integration via **OpenRouter API**
 ---
 
-### 🛠 Tech Stack
+### 🛠 Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" />
   <br />
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,tailwind&theme=dark" />
   <br />
   <sub>+ aiogram (Python framework)</sub>
 </p>
