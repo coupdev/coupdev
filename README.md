@@ -5,11 +5,13 @@
 
 ### 🧠 About Me
 
-- Backend development in **Python** & **aiogram**  
-- Telegram bots in **Python (aiogram)**   
-- Web development with **HTML / CSS / Tailwind / JavaScript**  
-- Integration of AI via **OpenRouter API**    
-- Basic deployment & containerization with **Docker** on VPS  
+- I’m a **beginner backend developer** actively learning and building projects in **Python** and modern web technologies.  
+- My main focus is on **Telegram bots**, **backend services**, and **simple websites**, where I practice writing clean and modular code.  
+
+- Sometimes I work with **FastAPI** and **aiogram** for Python development   
+- On the web side, I use **HTML, CSS, Tailwind, and JavaScript** for building lightweight sites.  
+
+- I’m also know the basics of deployment: containerizing projects with **Docker** and hosting them on VPS.  
 
 ---
 
@@ -20,7 +22,7 @@
   <br />
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,tailwind&theme=dark" />
   <br />
-  <sub>+ aiogram (Python framework) & grammY (TS framework)</sub>
+  <sub>+ aiogram (Python framework) </sub>
 </p>
 
 ---
