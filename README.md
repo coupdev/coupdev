@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm coup 👋</h1>
-<p align="center">🚀 begginer backend developer & part-time frontend minimalist</p>
+<p align="center">🚀 beginner backend developer & part-time frontend minimalist</p>
 
 ---
 
@@ -12,15 +12,17 @@
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python, HTML, CSS, JavaScript (basic), TypeScript (basic)
-- **Frameworks / Tools:** aiogram, TailwindCSS, Node.js
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,nodejs&theme=dark" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode&theme=dark" />
+  <br />
+  <sub>+ aiogram (Python framework)</sub>
+</p>
 
 ---
 
 ### 📊 Stats & Activity
-
-<p align="center">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coupdev&layout=compact&theme=github_dark" alt="Top Languages" />
