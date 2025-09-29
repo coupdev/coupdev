@@ -17,7 +17,7 @@
 
 ### 🛠 Languages & Frameworks
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" />
   <br />
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,tailwind&theme=dark" />
@@ -29,7 +29,7 @@
 
 ### ⚙️ Tools & Extras
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=docker,powershell,bash&theme=dark" />
 <br />
 <img src="https://skillicons.dev/icons?i=windows,arch,vscode&theme=dark" />
