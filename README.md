@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-- Backend & Telegram bots in **Python**
+- Backend & Telegram bots in **Python** (aiogram)
 - Simple static websites in **HTML / CSS / Tailwind**
 
 ---
