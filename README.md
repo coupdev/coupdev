@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm coup 👋</h1>
+<h1 align="center">Sup, I'm coup 👋</h1>
 <p align="center">🚀 beginner backend developer & part-time frontend minimalist</p>
 
 ---
@@ -25,7 +25,7 @@
 ### ⚙️ Tools & Extras
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,windows,arch,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,windows,arch,powershell,bash&theme=dark" />
 </p>
 
 ---
