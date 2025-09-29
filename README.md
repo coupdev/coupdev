@@ -7,7 +7,7 @@
 
 - Backend & Telegram bots in **Python** (aiogram) dev
 - Simple websites in **HTML / CSS / Tailwind / Js**
-- Ai integration via OpenRouter API
+- Ai integration via **OpenRouter API**
 ---
 
 ### 🛠 Tech Stack
