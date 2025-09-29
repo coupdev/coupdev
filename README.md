@@ -35,7 +35,6 @@
 ### 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coupdev&layout=compact&theme=github_dark" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=coup&theme=github_dark" alt="WakaTime Stats" />
   <br />
   <sub>P.S: WakaTime stats may be incomplete</sub>
