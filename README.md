@@ -13,9 +13,9 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,tailwind,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,tailwind&theme=dark" />
   <br />
-  <img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs&theme=dark" />
   <br />
   <sub>+ aiogram (Python framework)</sub>
 </p>
@@ -25,8 +25,10 @@
 ### ⚙️ Tools & Extras
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,git,windows,arch,powershell,bash&theme=dark" />
+  
+<img src="https://skillicons.dev/icons?i=windows,arch,vscode,docker,powershell,bash&theme=dark" />
 </p>
+
 
 ---
 
