@@ -18,7 +18,7 @@
 ### 🛠 Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" />
   <br />
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,tailwind&theme=dark" />
   <br />
