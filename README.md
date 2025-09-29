@@ -5,9 +5,9 @@
 
 ### 🧠 About Me
 
-- Backend & Telegram bots in **Python** (aiogram)
-- Simple static websites in **HTML / CSS / Tailwind**
-
+- Backend & Telegram bots in **Python** (aiogram) dev
+- Simple websites in **HTML / CSS / Tailwind / Js**
+- Ai integration via OpenRouter API
 ---
 
 ### 🛠 Tech Stack
