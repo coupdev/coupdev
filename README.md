@@ -9,7 +9,7 @@
 - My main focus is on **Telegram bots**, **backend services**, and **simple websites**, where I practice writing clean and modular code.  
 
 - Sometimes I work with **FastAPI** and **aiogram** for Python development   
-- On the web side, I use **HTML, CSS, Tailwind, and JavaScript** for building lightweight sites.  
+- On the web side, I use **HTML, CSS, Tailwind, TypeScript and JavaScript** for building lightweight sites.  
 
 - I’m also know the basics of deployment: containerizing projects with **Docker** and hosting them on VPS.  
 
