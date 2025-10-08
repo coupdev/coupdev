@@ -30,7 +30,7 @@
 ### ⚙️ Tools & Extras
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,powershell&theme=dark" />
 <br />
 <img src="https://skillicons.dev/icons?i=windows,arch,vscode&theme=dark" />
 <br />
