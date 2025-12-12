@@ -17,6 +17,10 @@
 
 ### 🛠 Languages & Frameworks
 
+<div align="left">
+    <img src="https://wakatime.com/badge/user/89cf006a-5a87-4850-a9eb-93b85b5f9f11.svg" alt="Waka Badge"/>
+  <div align="left">
+    
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" />
   <br />
